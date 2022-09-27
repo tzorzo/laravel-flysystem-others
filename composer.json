@@ -1,5 +1,5 @@
 {
-    "name": "danhunsaker/laravel-flysystem-others",
+    "name": "tzorzo/laravel-flysystem-others",
     "description": "Automatically registers every third-party Flysystem adapter it recognizes as a Laravel Filesystem Driver.",
     "keywords": ["laravel", "flysystem"],
     "license": "MIT",
